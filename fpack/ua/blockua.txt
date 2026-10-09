@@ -97,7 +97,6 @@ CherryPicker
 CheTeam
 ChinaClaw
 Chlooe
-Citoid
 Claritybot
 clark-crawler
 ClaudeBot
